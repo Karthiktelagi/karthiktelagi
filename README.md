@@ -64,7 +64,7 @@
 
 
 - 💬 **Let's talk about:**
-  - 🔭 I’m currently working on Blockhain Development
+  - 🔭 I’m currently working on Cross Platform Development
   - 💻 Python, C, Java, Dart, Flutter, Html, Css, Mysql
   - 🚀 GitHub Contributions & Open Source
   - 📫 How to reach me tskarthik663@gmail.com
