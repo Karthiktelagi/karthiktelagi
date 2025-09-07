@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Karthiktelagi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">🔒🐧 Linux  | Blockchain Development | Cross Platform Development | Web development | 
+<h3 align="center">🔒🐧 Linux  | Flutter Development | Cross Platform Development | Web development | 
 </h3></br>
 <p align="left"> 
 
