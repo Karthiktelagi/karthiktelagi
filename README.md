@@ -1,6 +1,4 @@
-<div align="center"><img  alt="Coding" width="500" src="https://i.kinja-img.com/gawker-media/image/upload/s--L-tqKLNm--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/pwl9mwg0qu5vdagwstde.jpg"></div>
-<h2 align="left">Hi 👋! I'm Karthiktelagi</h2>
-
+<div align="center"><img alt="Coding" width="500" src="https://backiee.com/static/wallpapers/1000x563/386741.jpg"></div>
 
 
 <p align="left"> 
