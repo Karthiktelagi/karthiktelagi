@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Karthiktelagi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">🔒🐧 Linux  | Flutter Development | Cross Platform Development | Web development | 
+<h3 align="center">🔒🐧 Linux  | Python | Flutter Development | Cross Platform Development | Web development | 
 </h3></br>
 <p align="left"> 
 
@@ -14,11 +14,12 @@
 
 # 📊 GitHub Stats:
  
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karthiktelagi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthiktelagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthiktelagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />-->
+  <div align="center">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=Karthiktelagi&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  
+  </div>
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -49,12 +50,12 @@
 
 ###
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Karthiktelagi&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+-->
 ###
 
 <img align="right" height="250" src="https://media1.tenor.com/m/Lk7c5qcQPh8AAAAC/sung-jin-woo-solo-leveling.gif"  />
@@ -62,8 +63,10 @@
 
 
 - 💬 **Let's talk about:**
-  - 🔭 I’m currently working on Cross Platform Development
+  - 🔭 I’m currently working on Python Full Stack Development
   - 💻 Python, C, Java, Dart, Flutter, Html, Css, Mysql
   - 🚀 GitHub Contributions & Open Source
   - 📫 How to reach me tskarthik663@gmail.com
     
+
+⭐ *Thanks for visiting my GitHub profile!*
