@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="75%" style="border-radius:20px" src="https://camo.githubusercontent.com/17061a667b75ed184a51ea9ef97089dc333b7e0b7163e06042b85d29b721cefb/68747470733a2f2f6261636b6965652e636f6d2f7374617469632f77616c6c7061706572732f31303030783536332f3338363734312e6a7067" />
+  <img width="65%" style="border-radius:20px" src="https://camo.githubusercontent.com/17061a667b75ed184a51ea9ef97089dc333b7e0b7163e06042b85d29b721cefb/68747470733a2f2f6261636b6965652e636f6d2f7374617469632f77616c6c7061706572732f31303030783536332f3338363734312e6a7067" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=KARTHIKTELAGI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=16&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=◈+Cross+Platform+Developer+◈;Web+·+Mobile+·+Systems+·+Android;Python+·+Flutter+·+Flask+·+Dart+·+Java;3rd+Year+Engineering+Student+%40+AIET;Security+Curious+·+AI+Explorer+·+Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=16&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Cross+Platform+Developer;Web+Mobile+Android+Systems;Python+Flutter+Flask+Dart+Java;3rd+Year+Engineering+Student+AIET;Security+Research+AI+Open+Source" />
 
 <br>
 
