@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=KARTHIKTELAGI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=16&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Cross+Platform+Developer;Web+Mobile+Android+Systems;Python+Flutter+Flask+Dart+Java;3rd+Year+Engineering+Student+AIET;Security+Research+AI+Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=16&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Salesforce+Developer;Enterprise+Cloud+Solutions;Apex+LWC+SOQL+Flow+Builder;Python+Java+Dart;AI+Machine+Learning+Research;Open+Source+%7C+IEEE+Author" />
 
 <br>
 
@@ -29,6 +29,7 @@
 
 <!-------------- ABOUT ME SECTION -------------->
 
+
 <div align="center">
 
 ## ✦ &nbsp; A B O U T &nbsp; M E &nbsp; ✦
@@ -44,26 +45,27 @@
 ```kotlin
 object Karthik {
 
-  val name     = "Karthik TS"
-  val college  = "AIET · 3rd Year Engineering"
-  val location = "India 🇮🇳"
-  val role     = "Cross Platform Developer"
+  val name     = "Karthik T S"
+  val college  = "Alva's Institute of Engineering & Technology"
+  val location = "Karnataka, India 🇮🇳"
+  val role     = "Salesforce Developer"
 
   val builds = listOf(
-    "🌐 Web Applications",
-    "📱 Mobile Apps (Flutter)",
-    "🤖 Android Native",
-    "⚙️  Automation Scripts"
+    " Salesforce Applications",
+    " AI-Powered Solutions",
+    " Full Stack Web Applications",
+    " Cross-Platform Mobile Apps"
   )
 
   val learning = listOf(
-    "AI & Vision Systems",
-    "Cybersecurity Fundamentals",
-    "Open Source Contributions"
+    "Lightning Web Components",
+    "Agentforce & Apex",
+    "Machine Learning",
+    "Computer Vision"
   )
 
   val motto =
-    "One dev. Every platform. Zero limits."
+    "Building intelligent cloud solutions with AI."
 }
 ```
 
@@ -75,9 +77,9 @@ object Karthik {
 
 <br><br>
 
-![](https://img.shields.io/badge/🎓_AIET-3rd_Year-C084FC?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🚀_Role-Cross_Platform-7c3aed?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🟢_Open_to-Internship-22c55e?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/_AIET-Final_Year-C084FC?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/_Role-Salesforce_Developer-7c3aed?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/_Open_to-Full_Time-22c55e?style=flat-square&labelColor=0d0d0d)
 
 </td>
 </tr>
@@ -101,17 +103,17 @@ object Karthik {
 
 ```
  ╔══════════════════════╗      ╔══════════════════════╗      ╔══════════════════════╗
- ║   🌐   W E B         ║      ║  📱   M O B I L E    ║      ║  🖥️   S Y S T E M S  ║
+ ║ ☁️ SALESFORCE        ║      ║ 🤖 AI & RESEARCH     ║      ║ 💻 FULL STACK        ║
  ╠══════════════════════╣      ╠══════════════════════╣      ╠══════════════════════╣
- ║  HTML5  ·  CSS3      ║      ║  Flutter  ·  Dart    ║      ║  Python  ·  Bash     ║
- ║  JavaScript          ║      ║  Android SDK         ║      ║  Linux   ·  Kali     ║
- ║  Bootstrap 5         ║      ║  Firebase            ║      ║  Git     ·  SSH      ║
- ║  Flask  ·  REST      ║      ║  Play Store Ready    ║      ║  Automation          ║
- ║  MySQL  ·  SQLite    ║      ║  Offline-First Apps  ║      ║  Security Research   ║
+ ║ Apex · SOQL          ║      ║ Python · ML          ║      ║ React · Flask        ║
+ ║ LWC · Flow Builder   ║      ║ OpenCV               ║      ║ HTML · CSS           ║
+ ║ Agentforce           ║      ║ Computer Vision      ║      ║ JavaScript           ║
+ ║ Salesforce CLI       ║      ║ Transformer Models   ║      ║ REST APIs            ║
+ ║ Platform Developer   ║      ║ AI Solutions         ║      ║ MySQL · Firebase     ║
  ╚══════════════════════╝      ╚══════════════════════╝      ╚══════════════════════╝
             ▲                             ▲                             ▲
             ╚═════════════════════════════╩═════════════════════════════╝
-                          ◈  One developer. All layers. ◈
+                    ◈ Cloud. AI. Enterprise Solutions. ◈
 ```
 
 </div>
@@ -132,46 +134,73 @@ object Karthik {
 
 <br>
 
-**── Languages ──**
+**── Programming Languages ──**
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=00599C)
+![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 <br>
 
-**── Cross Platform & Mobile ──**
+**── Salesforce Development ──**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![Apex](https://img.shields.io/badge/Apex-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![LWC](https://img.shields.io/badge/LWC-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![SOQL](https://img.shields.io/badge/SOQL-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![Flow Builder](https://img.shields.io/badge/Flow_Builder-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![Salesforce CLI](https://img.shields.io/badge/Salesforce_CLI-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+
+<br>
+
+**── AI & Machine Learning ──**
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0d0d0d?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Transformers](https://img.shields.io/badge/Transformers-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
+<br>
+
+**── Full Stack Development ──**
+
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+<br>
+
+**── Databases & Cloud ──**
+
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=003B57)
+
+<br>
+
+**── Mobile Development ──**
 
 ![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=54C5F8)
 ![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Android](https://img.shields.io/badge/Android-0d0d0d?style=for-the-badge&logo=android&logoColor=3DDC84)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Google Play](https://img.shields.io/badge/Play_Store-0d0d0d?style=for-the-badge&logo=googleplay&logoColor=34A853)
-
-<br>
-
-**── Web & Backend ──**
-
-![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d0d0d?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
 
 <br>
 
 **── Tools, OS & Environment ──**
 
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![VSCode](https://img.shields.io/badge/VSCode-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 </div>
 
@@ -182,7 +211,6 @@ object Karthik {
 </div>
 
 <br>
-
 <!-------------- SKILL MATRIX -------------->
 
 <div align="center">
@@ -193,13 +221,14 @@ object Karthik {
 
 |  | &nbsp;&nbsp; Skill | Level | Mastery | Rating |
 |:---:|:---|:---:|:---|:---:|
-| 🐍 | Python · Flask · REST | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░` | ★★★★☆ |
+| ☁️ | Salesforce · Apex · LWC · SOQL | `Advanced` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` | ★★★★★ |
+| 🐍 | Python · Flask · REST APIs | `Advanced` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` | ★★★★★ |
+| 🤖 | AI · Machine Learning · OpenCV | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | ★★★★☆ |
+| 🌐 | React · HTML · CSS · JavaScript | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | ★★★★☆ |
 | 📱 | Flutter · Dart · Firebase | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | ★★★★☆ |
-| 🌐 | HTML · CSS · JS · Bootstrap | `Comfortable` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░` | ★★★★☆ |
-| ☕ | Java · Android SDK | `Comfortable` | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` | ★★★☆☆ |
-| 🐧 | Linux · Bash · Automation | `Growing` | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` | ★★★☆☆ |
-| 🔬 | AI · Vision · Research | `Exploring` | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` | ★★☆☆☆ |
-| 🔐 | Cybersecurity · Networking | `Curious` | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` | ★★☆☆☆ |
+| 🗄️ | MySQL · SQLite · Firebase | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` | ★★★★☆ |
+| ⚙️ | Git · Linux · VS Code · CLI | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` | ★★★★☆ |
+| 🔐 | Networking · Cybersecurity | `Growing` | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` | ★★★☆☆ |
 
 </div>
 
@@ -212,27 +241,27 @@ object Karthik {
 <br>
 
 <!-------------- GITHUB STATS -------------->
-
 <div align="center">
 
 ## ✦ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ✦
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Karthiktelagi&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C084FC&text_color=8b949e&icon_color=C084FC&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiktelagi&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C084FC&text_color=8b949e&langs_count=7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthiktelagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiktelagi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br>
 
-<img width="66%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiktelagi&hide_border=true&background=0d0d0d&ring=C084FC&fire=f59e0b&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&stroke=1a0040&currStreakNum=C084FC&sideNums=ffffff" />
+<img width="66%" src="https://streak-stats.demolab.com?user=Karthiktelagi&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Karthiktelagi&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Karthiktelagi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiktelagi&bg_color=0d0d0d&color=8b949e&line=C084FC&point=ffffff&area=true&area_color=C084FC&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiktelagi&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -243,12 +272,11 @@ object Karthik {
 </div>
 
 <br>
-
 <!-------------- ROADMAP -------------->
 
 <div align="center">
 
-## ✦ &nbsp; 2 0 2 5 &nbsp; R O A D M A P &nbsp; ✦
+## ✦ &nbsp; 2 0 2 6 &nbsp; R O A D M A P &nbsp; ✦
 
 <br>
 
@@ -257,10 +285,10 @@ object Karthik {
 
    JAN – MAR                APR – JUN                JUL – SEP                OCT – DEC
   ╔════════════╗   ━━━▶   ╔════════════╗   ━━━▶   ╔════════════╗   ━━━▶   ╔════════════╗
-  ║ ✅ Python  ║           ║ 🔄 Flutter  ║           ║ 🎯 AI &    ║           ║ 🏆 Ship    ║
-  ║ ✅ Flask   ║           ║    v2 Apps  ║           ║    Vision  ║           ║    Apps    ║
-  ║ ✅ Flutter ║           ║ 🔄 Open     ║           ║ 🎯 Sec     ║           ║ 🏆 Intern  ║
-  ║ ✅ Android ║           ║    Source   ║           ║    Basics  ║           ║ 🏆 Publish ║
+  ║ ✅ Apex    ║           ║ 🔄 LWC      ║           ║ 🎯 AI &    ║           ║ 🏆 SDE /   ║
+  ║ ✅ SOQL    ║           ║    Agent    ║           ║    Cloud   ║           ║    SF Dev  ║
+  ║ ✅ Python  ║           ║ 🔄 Projects ║           ║ 🎯 Research║           ║ 🏆 OSS      ║
+  ║ ✅ React   ║           ║    Portfolio║           ║ 🎯 DSA     ║           ║ 🏆 Career   ║
   ╚════════════╝           ╚════════════╝           ╚════════════╝           ╚════════════╝
 
   ◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◉
