@@ -243,35 +243,27 @@ object Karthik {
 <!-------------- GITHUB STATS -------------->
 <div align="center">
 
-## ✦ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ✦
+## ✦ G I T H U B &nbsp; S T A T S ✦
+
+
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthiktelagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiktelagi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Karthiktelagi&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img width="66%" src="https://streak-stats.demolab.com?user=Karthiktelagi&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Karthiktelagi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiktelagi&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiktelagi&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2d0070,100:0d0d0d&height=1" />
-</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2d0070,100:0d0d0d&height=2"/>
+
+</div>
 <!-------------- ROADMAP -------------->
 
 <div align="center">
