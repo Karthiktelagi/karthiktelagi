@@ -245,24 +245,20 @@ object Karthik {
 
 ## ✦ G I T H U B &nbsp; S T A T S ✦
 
-
-
 <br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Karthiktelagi&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiktelagi&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiktelagi&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2d0070,100:0d0d0d&height=2"/>
-
 </div>
 <!-------------- ROADMAP -------------->
 
