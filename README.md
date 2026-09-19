@@ -7,10 +7,8 @@
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=KARTHIKTELAGI" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=16&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Salesforce+Developer;Enterprise+Cloud+Solutions;Apex+LWC+SOQL+Flow+Builder;Python+Java+Dart;AI+Machine+Learning+Research;Open+Source+%7C+IEEE+Author" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=999999&color=7C3AED&center=true&vCenter=true&width=600&lines=KARTHIKTELAGI" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=16&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Software+Engineering;AI+%2F+Machine+Learning;Full+Stack+Development;Python+React+FastAPI+Flask;Cloud+%7C+Computer+Vision+%7C+Open+Source" />
 
 <br>
 
@@ -27,9 +25,6 @@
 
 <br>
 
-<!-------------- ABOUT ME SECTION -------------->
-
-
 <div align="center">
 
 ## ✦ &nbsp; A B O U T &nbsp; M E &nbsp; ✦
@@ -40,6 +35,7 @@
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
+
 <td width="400" valign="top">
 
 ```kotlin
@@ -48,40 +44,50 @@ object Karthik {
   val name     = "Karthik T S"
   val college  = "Alva's Institute of Engineering & Technology"
   val location = "Karnataka, India 🇮🇳"
-  val role     = "Salesforce Developer"
+  val focus    = "Software Engineering"
 
   val builds = listOf(
-    " Salesforce Applications",
-    " AI-Powered Solutions",
+    " AI / ML Solutions",
     " Full Stack Web Applications",
+    " Computer Vision Systems",
     " Cross-Platform Mobile Apps"
   )
 
   val learning = listOf(
-    "Lightning Web Components",
-    "Agentforce & Apex",
+    "Artificial Intelligence",
     "Machine Learning",
-    "Computer Vision"
+    "Cloud Technologies",
+    "System Design"
+  )
+
+  val interests = listOf(
+    "Open Source",
+    "Developer Tools",
+    "Software Engineering",
+    "Intelligent Applications"
   )
 
   val motto =
-    "Building intelligent cloud solutions with AI."
+    "Build practical software. Keep learning."
 }
 ```
 
 </td>
+
 <td width="40"></td>
+
 <td width="290" valign="middle" align="center">
 
 <img src="https://media1.tenor.com/m/Lk7c5qcQPh8AAAAC/sung-jin-woo-solo-leveling.gif" width="250" />
 
 <br><br>
 
-![](https://img.shields.io/badge/_AIET-Final_Year-C084FC?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/_Role-Salesforce_Developer-7c3aed?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/_Open_to-Full_Time-22c55e?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/_AIET-Computer_Science-C084FC?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/_Focus-AI_%26_Full_Stack-7c3aed?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/_Open_to-Opportunities-22c55e?style=flat-square&labelColor=0d0d0d)
 
 </td>
+
 </tr>
 </table>
 
@@ -93,27 +99,25 @@ object Karthik {
 
 <br>
 
-<!-------------- PLATFORM SECTION -------------->
-
 <div align="center">
 
 ## ✦ &nbsp; P L A T F O R M &nbsp; C O V E R A G E &nbsp; ✦
 
 <br>
 
-```
+```text
  ╔══════════════════════╗      ╔══════════════════════╗      ╔══════════════════════╗
- ║ ☁️ SALESFORCE        ║      ║ 🤖 AI & RESEARCH     ║      ║ 💻 FULL STACK        ║
+ ║ 🤖 AI & ML           ║      ║ 💻 FULL STACK        ║      ║ ☁️ CLOUD & DATA      ║
  ╠══════════════════════╣      ╠══════════════════════╣      ╠══════════════════════╣
- ║ Apex · SOQL          ║      ║ Python · ML          ║      ║ React · Flask        ║
- ║ LWC · Flow Builder   ║      ║ OpenCV               ║      ║ HTML · CSS           ║
- ║ Agentforce           ║      ║ Computer Vision      ║      ║ JavaScript           ║
- ║ Salesforce CLI       ║      ║ Transformer Models   ║      ║ REST APIs            ║
- ║ Platform Developer   ║      ║ AI Solutions         ║      ║ MySQL · Firebase     ║
+ ║ Python · ML          ║      ║ React · Flask        ║      ║ MySQL · PostgreSQL   ║
+ ║ OpenCV               ║      ║ FastAPI              ║      ║ Firebase · Redis     ║
+ ║ Computer Vision      ║      ║ HTML · CSS           ║      ║ IBM Cloud            ║
+ ║ RAG                  ║      ║ JavaScript           ║      ║ REST APIs            ║
+ ║ Intelligent Systems  ║      ║ Software Engineering ║      ║ Cloud Technologies   ║
  ╚══════════════════════╝      ╚══════════════════════╝      ╚══════════════════════╝
             ▲                             ▲                             ▲
             ╚═════════════════════════════╩═════════════════════════════╝
-                    ◈ Cloud. AI. Enterprise Solutions. ◈
+                    ◈ AI. Software. Cloud. Open Source. ◈
 ```
 
 </div>
@@ -125,8 +129,6 @@ object Karthik {
 </div>
 
 <br>
-
-<!-------------- TECH SECTION -------------->
 
 <div align="center">
 
@@ -141,17 +143,6 @@ object Karthik {
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-<br>
-
-**── Salesforce Development ──**
-
-![Salesforce](https://img.shields.io/badge/Salesforce-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![Apex](https://img.shields.io/badge/Apex-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![LWC](https://img.shields.io/badge/LWC-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![SOQL](https://img.shields.io/badge/SOQL-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![Flow Builder](https://img.shields.io/badge/Flow_Builder-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
-![Salesforce CLI](https://img.shields.io/badge/Salesforce_CLI-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
 
 <br>
 
@@ -202,6 +193,15 @@ object Karthik {
 ![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
+<br>
+
+**── Salesforce · Secondary ──**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![Apex](https://img.shields.io/badge/Apex-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![LWC](https://img.shields.io/badge/LWC-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![SOQL](https://img.shields.io/badge/SOQL-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+
 </div>
 
 <br>
@@ -211,7 +211,6 @@ object Karthik {
 </div>
 
 <br>
-<!-------------- SKILL MATRIX -------------->
 
 <div align="center">
 
@@ -221,14 +220,14 @@ object Karthik {
 
 |  | &nbsp;&nbsp; Skill | Level | Mastery | Rating |
 |:---:|:---|:---:|:---|:---:|
-| ☁️ | Salesforce · Apex · LWC · SOQL | `Advanced` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` | ★★★★★ |
 | 🐍 | Python · Flask · REST APIs | `Advanced` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` | ★★★★★ |
 | 🤖 | AI · Machine Learning · OpenCV | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | ★★★★☆ |
 | 🌐 | React · HTML · CSS · JavaScript | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | ★★★★☆ |
-| 📱 | Flutter · Dart · Firebase | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | ★★★★☆ |
+| ⚡ | FastAPI · Backend · REST APIs | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | ★★★★☆ |
+| 📱 | Flutter · Dart · Android | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` | ★★★★☆ |
 | 🗄️ | MySQL · SQLite · Firebase | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` | ★★★★☆ |
 | ⚙️ | Git · Linux · VS Code · CLI | `Intermediate` | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` | ★★★★☆ |
-| 🔐 | Networking · Cybersecurity | `Growing` | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` | ★★★☆☆ |
+| ☁️ | Salesforce · Apex · SOQL · LWC | `Working Knowledge` | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` | ★★★☆☆ |
 
 </div>
 
@@ -240,7 +239,6 @@ object Karthik {
 
 <br>
 
-<!-------------- GITHUB STATS -------------->
 <div align="center">
 
 ## ✦ G I T H U B &nbsp; S T A T S ✦
@@ -249,50 +247,35 @@ object Karthik {
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Karthiktelagi&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiktelagi&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-</div>
+<br>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2d0070,100:0d0d0d&height=2"/>
-</div>
-<!-------------- ROADMAP -------------->
 
-<div align="center">
-
-## ✦ &nbsp; 2 0 2 6 &nbsp; R O A D M A P &nbsp; ✦
+## ✦ &nbsp; O P E N &nbsp; S O U R C E &nbsp; ✦
 
 <br>
 
-```
-  ◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◉
+**MediaWiki · WikiTech Club**
 
-   JAN – MAR                APR – JUN                JUL – SEP                OCT – DEC
-  ╔════════════╗   ━━━▶   ╔════════════╗   ━━━▶   ╔════════════╗   ━━━▶   ╔════════════╗
-  ║ ✅ Apex    ║           ║ 🔄 LWC      ║           ║ 🎯 AI &    ║           ║ 🏆 SDE /   ║
-  ║ ✅ SOQL    ║           ║    Agent    ║           ║    Cloud   ║           ║    SF Dev  ║
-  ║ ✅ Python  ║           ║ 🔄 Projects ║           ║ 🎯 Research║           ║ 🏆 OSS      ║
-  ║ ✅ React   ║           ║    Portfolio║           ║ 🎯 DSA     ║           ║ 🏆 Career   ║
-  ╚════════════╝           ╚════════════╝           ╚════════════╝           ╚════════════╝
+Contributing to open-source MediaWiki projects and working with collaborative Git/GitHub workflows.
 
-  ◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◉
-```
+<br>
+
+`Code → Collaborate → Contribute → Learn`
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2d0070,100:0d0d0d&height=1" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2d0070,100:0d0d0d&height=1" />
+
 </div>
 
 <br>
-
-<!-------------- SNAKE -------------->
 
 <div align="center">
 
@@ -306,8 +289,6 @@ object Karthik {
 
 <br>
 
-<!-------------- QUOTE -------------->
-
 <div align="center">
 
 ## ✦ &nbsp; D E V &nbsp; Q U O T E &nbsp; ✦
@@ -320,19 +301,18 @@ object Karthik {
 
 <br>
 
-<!-------------- FOOTER -------------->
-
 <div align="center">
 
 <br>
 
-```
+```text
   ╔════════════════════════════════════════════════════════════════════════════════╗
   ║                                                                                ║
-  ║    " Most developers pick one platform.                                       ║
-  ║        I picked all of them. "                                                ║
+  ║    " Build practical software.                                                 ║
+  ║        Learn continuously.                                                     ║
+  ║        Contribute meaningfully. "                                              ║
   ║                                                                                ║
-  ║    Web · Mobile · Systems — I build where the problem lives.                  ║
+  ║    AI · Web · Cloud · Open Source — Building one idea at a time.              ║
   ║                                                                                ║
   ║              ◈  Karthik TS  ·  github.com/Karthiktelagi  ◈                   ║
   ║                                                                                ║
