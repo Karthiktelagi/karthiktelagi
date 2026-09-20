@@ -245,7 +245,8 @@ object Karthik {
 
 <br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Karthiktelagi&theme=tokyonight&hide_border=true"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Karthiktelagi&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+</p>
 
 <br>
 
